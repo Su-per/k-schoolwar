@@ -1,7 +1,3 @@
-import os
-
-os.system("pip3 install httpx")
-
 import httpx
 
 url = "https://port-0-kschool-backend-37y7e24l7jiwra5.gksl1.cloudtype.app/pop/?count=50&token=&schoolCode=7380292"
